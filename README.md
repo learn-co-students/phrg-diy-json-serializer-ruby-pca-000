@@ -337,3 +337,4 @@ of using JSON. We've also built our own JSON serializer, and used it and
 AJAX to load blog posts without reloading the page.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/diy-json-serializer-ruby'>DIY JSON Serializer</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG DIY JSON Serializer</p>
